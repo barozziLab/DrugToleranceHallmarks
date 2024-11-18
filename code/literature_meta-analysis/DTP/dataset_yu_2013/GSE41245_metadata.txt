@@ -1,0 +1,30 @@
+row1.EPCAM	GSM1012135	blood draw 1	human breast cancer patient 1	processed by EPCAM CTC chip
+row1.IgG	GSM1012136	blood draw 1	human breast cancer patient 1	processed by IgG CTC chip
+row2.EPCAM	GSM1012137	blood draw 2	human breast cancer patient 1	processed by EPCAM CTC chip
+row2.IgG	GSM1012138	blood draw 2	human breast cancer patient 1	processed by IgG CTC chip
+row3.EPCAM	GSM1012139	blood draw 3	human breast cancer patient 1	processed by EPCAM CTC chip
+row3.IgG	GSM1012140	blood draw 3	human breast cancer patient 1	processed by IgG CTC chip
+row4.EPCAM	GSM1012141	blood draw 4	human breast cancer patient 1	processed by EPCAM CTC chip
+row4.IgG	GSM1012142	blood draw 4	human breast cancer patient 1	processed by IgG CTC chip
+row5.EPCAM	GSM1012143	blood draw 5	human breast cancer patient 1	processed by EPCAM CTC chip
+row5.IgG	GSM1012144	blood draw 5	human breast cancer patient 1	processed by IgG CTC chip
+row6.EPCAM	GSM1012145	blood draw 1 	healthy human donor 1	processed by EPCAM CTC chip
+row6.IgG	GSM1012146	blood draw 1	healthy human donor 1	processed by IgG CTC chip
+row7.EPCAM	GSM1012147	blood draw 1	healthy human donor 2	processed by EPCAM CTC chip
+row7.IgG	GSM1012148	blood draw 1	healthy human donor 2	processed by IgG CTC chip
+row8.EPCAM	GSM1012149	blood draw 1	healthy human donor 3	processed by EPCAM CTC chip
+row8.IgG	GSM1012150	blood draw 1	healthy human donor 3	processed by IgG CTC chip
+row9.EPCAM	GSM1012151	blood draw 1	healthy human donor 4	processed by EPCAM CTC chip
+row9.IgG	GSM1012152	blood draw 1	healthy human donor 4	processed by IgG CTC chip
+row10.EPCAM	GSM1012153	blood draw 1	healthy human donor 5	processed by EPCAM CTC chip
+row10.IgG	GSM1012154	blood draw 1	healthy human donor 5	processed by IgG CTC chip
+row11.EPCAM	GSM1012155	blood draw 1	healthy human donor 6	processed by EPCAM CTC chip
+row11.IgG	GSM1012156	blood draw 1	healthy human donor 6	processed by IgG CTC chip
+row12.EPCAM	GSM1012157	blood draw 1	healthy human donor 7	processed by EPCAM CTC chip
+row12.IgG	GSM1012158	blood draw 1	healthy human donor 7	processed by IgG CTC chip
+row13.EPCAM	GSM1012159	blood draw 1	healthy human donor 8	processed by EPCAM CTC chip
+row13.IgG	GSM1012160	blood draw 1	healthy human donor 8	processed by IgG CTC chip
+row14.EPCAM	GSM1012161	blood draw 1	healthy human donor 9	processed by EPCAM CTC chip
+row14.IgG	GSM1012162	blood draw 1	healthy human donor 9	processed by IgG CTC chip
+row15.EPCAM	GSM1012163	blood draw 1	healthy human donor 10	processed by EPCAM CTC chip
+row15.IgG	GSM1012164	blood draw 1	healthy human donor 10	processed by IgG CTC chip

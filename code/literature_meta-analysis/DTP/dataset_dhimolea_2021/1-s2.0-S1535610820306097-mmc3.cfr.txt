@@ -1,0 +1,14 @@
+Sample_Treatment_1	Sample_Treatment_2
+HCI002_Org-docetaxel	HCI002_Org-vehicle
+HCI003_Org-docetaxel	HCI003_Org-vehicle
+HCI003_PDX-afatinib	HCI003_PDX-vehicle
+HCI009_Org-docetaxel_washout	HCI009_Org-vehicle
+HCI0011_Org-docetaxel_washout	HCI0011_Org-vehicle
+MDAMB231_Org-docetaxel	MDAMB231_Org-vehicle
+PM154_Org-docetaxel	PM154_Org-vehicle
+PrCa1_Org-docetaxel	PrCa1_Org_A-vehicle
+PrCa1_Org-docetaxel	PrCa1_Org_B-vehicle
+PrCa1_Xeno-vinblastine	PrCa1_Xeno-vehicle
+PrCa3_Org-docetaxel	PrCa3_Org-vehicle
+PrCa7_Org-docetaxel	PrCa7_Org-vehicle
+PrCa7_Org-docetaxel_washout	PrCa7_Org-vehicle

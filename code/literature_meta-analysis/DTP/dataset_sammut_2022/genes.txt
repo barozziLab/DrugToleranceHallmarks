@@ -1,0 +1,16 @@
+Gene	Set
+CDKN2A	higher-pCR
+EGFR	higher-pCR
+CCNE1	higher-pCR
+NOTCH1	higher-pCR
+MYC	higher-pCR
+CDK6	higher-pCR
+BUB1B	higher-pCR
+TBX3	higher-RD
+XBP1	higher-RD
+CCND1	higher-RD
+ZNF703	higher-RD
+IGF1R	higher-RD
+GATA3	higher-RD
+FGFR2	higher-RD
+ESR1	higher-RD

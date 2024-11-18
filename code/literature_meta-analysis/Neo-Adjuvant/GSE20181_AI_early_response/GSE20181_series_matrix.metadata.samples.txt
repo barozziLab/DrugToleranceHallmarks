@@ -1,0 +1,176 @@
+GSM125123	10A	female	breast tumor	pretreatment	 responder
+GSM125124	10B	female	breast tumor	Letrozole, 2.5mg/day,oral, 10-14 days	 responder
+GSM125125	11A	female	breast tumor	pretreatment	 nonresponder
+GSM125126	11B	female	breast tumor	Letrozole, 2.5mg/day,oral, 10-14 days	 nonresponder
+GSM125127	12A	female	breast tumor	pretreatment	 responder
+GSM125128	12B	female	breast tumor	Letrozole, 2.5mg/day,oral, 10-14 days	 responder
+GSM125129	13A	female	breast tumor	pretreatment	 responder
+GSM125130	13B	female	breast tumor	Letrozole, 2.5mg/day,oral, 10-14 days	 responder
+GSM125131	14A	female	breast tumor	pretreatment	 responder
+GSM125132	14B	female	breast tumor	Letrozole, 2.5mg/day,oral, 10-14 days	 responder
+GSM125133	15A	female	breast tumor	pretreatment	 responder
+GSM125134	15B	female	breast tumor	Letrozole, 2.5mg/day,oral, 10-14 days	 responder
+GSM125135	16A	female	breast tumor	pretreatment	 not assessable
+GSM125136	16B	female	breast tumor	Letrozole, 2.5mg/day,oral, 10-14 days	 not assessable
+GSM125137	17A	female	breast tumor	pretreatment	 responder
+GSM125138	17B	female	breast tumor	Letrozole, 2.5mg/day,oral, 10-14 days	 responder
+GSM125139	18A	female	breast tumor	pretreatment	 responder
+GSM125140	18B	female	breast tumor	Letrozole, 2.5mg/day,oral, 10-14 days	 responder
+GSM125141	19A	female	breast tumor	pretreatment	 responder
+GSM125142	19B	female	breast tumor	Letrozole, 2.5mg/day,oral, 10-14 days	 responder
+GSM125143	20A	female	breast tumor	pretreatment	 responder
+GSM125144	20B	female	breast tumor	Letrozole, 2.5mg/day,oral, 10-14 days	 responder
+GSM125145	21A	female	breast tumor	pretreatment	 responder
+GSM125146	21B	female	breast tumor	Letrozole, 2.5mg/day,oral, 10-14 days	 responder
+GSM125147	22A	female	breast tumor	pretreatment	 responder
+GSM125148	22B	female	breast tumor	Letrozole, 2.5mg/day,oral, 10-14 days	 responder
+GSM125149	23A	female	breast tumor	pretreatment	 responder
+GSM125150	23B	female	breast tumor	Letrozole, 2.5mg/day,oral, 10-14 days	 responder
+GSM125151	24A	female	breast tumor	pretreatment	 not assessable
+GSM125152	24B	female	breast tumor	Letrozole, 2.5mg/day,oral, 10-14 days	 not assessable
+GSM125153	25A	female	breast tumor	pretreatment	 responder
+GSM125154	25B	female	breast tumor	Letrozole, 2.5mg/day,oral, 10-14 days	 responder
+GSM125155	27A	female	breast tumor	pretreatment	 nonresponder
+GSM125156	27B	female	breast tumor	Letrozole, 2.5mg/day,oral, 10-14 days	 nonresponder
+GSM125157	28A	female	breast tumor	pretreatment	 responder
+GSM125158	28B	female	breast tumor	Letrozole, 2.5mg/day,oral, 10-14 days	 responder
+GSM125159	29A	female	breast tumor	pretreatment	 responder
+GSM125160	29B	female	breast tumor	Letrozole, 2.5mg/day,oral, 10-14 days	 responder
+GSM125161	2A	female	breast tumor	pretreatment	 responder
+GSM125162	2B	female	breast tumor	Letrozole, 2.5mg/day,oral, 10-14 days	 responder
+GSM125163	30A	female	breast tumor	pretreatment	 nonresponder
+GSM125164	30B	female	breast tumor	Letrozole, 2.5mg/day,oral, 10-14 days	 nonresponder
+GSM125165	31A	female	breast tumor	pretreatment	 responder
+GSM125166	31B	female	breast tumor	Letrozole, 2.5mg/day,oral, 10-14 days	 responder
+GSM125167	33A	female	breast tumor	pretreatment	 nonresponder
+GSM125168	33B	female	breast tumor	Letrozole, 2.5mg/day,oral, 10-14 days	 nonresponder
+GSM125169	34A	female	breast tumor	pretreatment	 responder
+GSM125170	34B	female	breast tumor	Letrozole, 2.5mg/day,oral, 10-14 days	 responder
+GSM125171	35A	female	breast tumor	pretreatment	 nonresponder
+GSM125172	35B	female	breast tumor	Letrozole, 2.5mg/day,oral, 10-14 days	 nonresponder
+GSM125173	36A	female	breast tumor	pretreatment	 nonresponder
+GSM125174	36B	female	breast tumor	Letrozole, 2.5mg/day,oral, 10-14 days	 nonresponder
+GSM125175	37A	female	breast tumor	pretreatment	 not assessable
+GSM125176	37B	female	breast tumor	Letrozole, 2.5mg/day,oral, 10-14 days	 not assessable
+GSM125177	38A	female	breast tumor	pretreatment	 nonresponder
+GSM125178	38B	female	breast tumor	Letrozole, 2.5mg/day,oral, 10-14 days	 nonresponder
+GSM125179	39A	female	breast tumor	pretreatment	 responder
+GSM125180	39B	female	breast tumor	Letrozole, 2.5mg/day,oral, 10-14 days	 responder
+GSM125181	40A	female	breast tumor	pretreatment	 responder
+GSM125182	40B	female	breast tumor	Letrozole, 2.5mg/day,oral, 10-14 days	 responder
+GSM125183	41A	female	breast tumor	pretreatment	 responder
+GSM125184	41B	female	breast tumor	Letrozole, 2.5mg/day,oral, 10-14 days	 responder
+GSM125185	42A	female	breast tumor	pretreatment	 nonresponder
+GSM125186	42B	female	breast tumor	Letrozole, 2.5mg/day,oral, 10-14 days	 nonresponder
+GSM125187	44A	female	breast tumor	pretreatment	 nonresponder
+GSM125188	44B	female	breast tumor	Letrozole, 2.5mg/day,oral, 10-14 days	 nonresponder
+GSM125189	45A	female	breast tumor	pretreatment	 responder
+GSM125190	45B	female	breast tumor	Letrozole, 2.5mg/day,oral, 10-14 days	 responder
+GSM125191	46A	female	breast tumor	pretreatment	 not assessable
+GSM125192	46B	female	breast tumor	Letrozole, 2.5mg/day,oral, 10-14 days	 not assessable
+GSM125193	47A	female	breast tumor	pretreatment	 responder
+GSM125194	47B	female	breast tumor	Letrozole, 2.5mg/day,oral, 10-14 days	 responder
+GSM125195	48A	female	breast tumor	pretreatment	 responder
+GSM125196	48B	female	breast tumor	Letrozole, 2.5mg/day,oral, 10-14 days	 responder
+GSM125197	49A	female	breast tumor	pretreatment	 responder
+GSM125198	49B	female	breast tumor	Letrozole, 2.5mg/day,oral, 10-14 days	 responder
+GSM125199	4A	female	breast tumor	pretreatment	 not assessable
+GSM125200	4B	female	breast tumor	Letrozole, 2.5mg/day,oral, 10-14 days	 not assessable
+GSM125201	50A	female	breast tumor	pretreatment	 responder
+GSM125202	50B	female	breast tumor	Letrozole, 2.5mg/day,oral, 10-14 days	 responder
+GSM125203	51A	female	breast tumor	pretreatment	 responder
+GSM125204	51B	female	breast tumor	Letrozole, 2.5mg/day,oral, 10-14 days	 responder
+GSM125205	52A	female	breast tumor	pretreatment	 nonresponder
+GSM125206	52B	female	breast tumor	Letrozole, 2.5mg/day,oral, 10-14 days	 nonresponder
+GSM125207	53A	female	breast tumor	pretreatment	 nonresponder
+GSM125208	53B	female	breast tumor	Letrozole, 2.5mg/day,oral, 10-14 days	 nonresponder
+GSM125209	55A	female	breast tumor	pretreatment	 responder
+GSM125210	55B	female	breast tumor	Letrozole, 2.5mg/day,oral, 10-14 days	 responder
+GSM125211	56A	female	breast tumor	pretreatment	 not assessable
+GSM125212	56B	female	breast tumor	Letrozole, 2.5mg/day,oral, 10-14 days	 not assessable
+GSM125213	57A	female	breast tumor	pretreatment	 responder
+GSM125214	57B	female	breast tumor	Letrozole, 2.5mg/day,oral, 10-14 days	 responder
+GSM125215	58A	female	breast tumor	pretreatment	 responder
+GSM125216	58B	female	breast tumor	Letrozole, 2.5mg/day,oral, 10-14 days	 responder
+GSM125217	59A	female	breast tumor	pretreatment	 nonresponder
+GSM125218	59B	female	breast tumor	Letrozole, 2.5mg/day,oral, 10-14 days	 nonresponder
+GSM125219	5A	female	breast tumor	pretreatment	 responder
+GSM125220	5B	female	breast tumor	Letrozole, 2.5mg/day,oral, 10-14 days	 responder
+GSM125221	60A	female	breast tumor	pretreatment	 responder
+GSM125222	60B	female	breast tumor	Letrozole, 2.5mg/day,oral, 10-14 days	 responder
+GSM125223	63A	female	breast tumor	pretreatment	 responder
+GSM125224	63B	female	breast tumor	Letrozole, 2.5mg/day,oral, 10-14 days	 responder
+GSM125225	64A	female	breast tumor	pretreatment	 responder
+GSM125226	64B	female	breast tumor	Letrozole, 2.5mg/day,oral, 10-14 days	 responder
+GSM125227	65A	female	breast tumor	pretreatment	 nonresponder
+GSM125228	65B	female	breast tumor	Letrozole, 2.5mg/day,oral, 10-14 days	 nonresponder
+GSM125229	68A	female	breast tumor	pretreatment	 nonresponder
+GSM125230	68B	female	breast tumor	Letrozole, 2.5mg/day,oral, 10-14 days	 nonresponder
+GSM125231	69A	female	breast tumor	pretreatment	 responder
+GSM125232	69B	female	breast tumor	Letrozole, 2.5mg/day,oral, 10-14 days	 responder
+GSM125233	7A	female	breast tumor	pretreatment	 responder
+GSM125234	7B	female	breast tumor	Letrozole, 2.5mg/day,oral, 10-14 days	 responder
+GSM125235	8A	female	breast tumor	pretreatment	 nonresponder
+GSM125236	8B	female	breast tumor	Letrozole, 2.5mg/day,oral, 10-14 days	 nonresponder
+GSM125237	9A	female	breast tumor	pretreatment	 responder
+GSM125238	9B	female	breast tumor	Letrozole, 2.5mg/day,oral, 10-14 days	 responder
+GSM506267	2C	female	breast tumor	 Letrozole, 2.5mg/day,oral, 90 days	 responder
+GSM506268	3C	female	breast tumor	 Letrozole, 2.5mg/day,oral, 90 days	 not assessable
+GSM506269	4C	female	breast tumor	 Letrozole, 2.5mg/day,oral, 90 days	 not assessable
+GSM506270	5C	female	breast tumor	 Letrozole, 2.5mg/day,oral, 90 days	 responder
+GSM506271	6C	female	breast tumor	 Letrozole, 2.5mg/day,oral, 90 days	 not assessable
+GSM506272	29C	female	breast tumor	 Letrozole, 2.5mg/day,oral, 90 days	 responder
+GSM506273	30C	female	breast tumor	 Letrozole, 2.5mg/day,oral, 90 days	 nonresponder
+GSM506274	31C	female	breast tumor	 Letrozole, 2.5mg/day,oral, 90 days	 responder
+GSM506275	33C	female	breast tumor	 Letrozole, 2.5mg/day,oral, 90 days	 nonresponder
+GSM506276	34C	female	breast tumor	 Letrozole, 2.5mg/day,oral, 90 days	 responder
+GSM506277	35C	female	breast tumor	 Letrozole, 2.5mg/day,oral, 90 days	 nonresponder
+GSM506278	36C	female	breast tumor	 Letrozole, 2.5mg/day,oral, 90 days	 nonresponder
+GSM506279	37C	female	breast tumor	 Letrozole, 2.5mg/day,oral, 90 days	 not assessable
+GSM506280	39C	female	breast tumor	 Letrozole, 2.5mg/day,oral, 90 days	 responder
+GSM506281	40C	female	breast tumor	 Letrozole, 2.5mg/day,oral, 90 days	 responder
+GSM506282	41C	female	breast tumor	 Letrozole, 2.5mg/day,oral, 90 days	 responder
+GSM506283	42C	female	breast tumor	 Letrozole, 2.5mg/day,oral, 90 days	 nonresponder
+GSM506284	43C	female	breast tumor	 Letrozole, 2.5mg/day,oral, 90 days	 not assessable
+GSM506285	44C	female	breast tumor	 Letrozole, 2.5mg/day,oral, 90 days	 nonresponder
+GSM506286	45C	female	breast tumor	 Letrozole, 2.5mg/day,oral, 90 days	 responder
+GSM506287	46C	female	breast tumor	 Letrozole, 2.5mg/day,oral, 90 days	 not assessable
+GSM506288	47C	female	breast tumor	 Letrozole, 2.5mg/day,oral, 90 days	 responder
+GSM506289	49C	female	breast tumor	 Letrozole, 2.5mg/day,oral, 90 days	 responder
+GSM506290	50C	female	breast tumor	 Letrozole, 2.5mg/day,oral, 90 days	 responder
+GSM506291	51C	female	breast tumor	 Letrozole, 2.5mg/day,oral, 90 days	 responder
+GSM506292	52C	female	breast tumor	 Letrozole, 2.5mg/day,oral, 90 days	 nonresponder
+GSM506293	53C	female	breast tumor	 Letrozole, 2.5mg/day,oral, 90 days	 nonresponder
+GSM506294	55C	female	breast tumor	 Letrozole, 2.5mg/day,oral, 90 days	 responder
+GSM506295	56C	female	breast tumor	 Letrozole, 2.5mg/day,oral, 90 days	 not assessable
+GSM506296	57C	female	breast tumor	 Letrozole, 2.5mg/day,oral, 90 days	 responder
+GSM506297	58C	female	breast tumor	 Letrozole, 2.5mg/day,oral, 90 days	 responder
+GSM506298	59C	female	breast tumor	 Letrozole, 2.5mg/day,oral, 90 days	 nonresponder
+GSM506299	60C	female	breast tumor	 Letrozole, 2.5mg/day,oral, 90 days	 responder
+GSM506300	63C	female	breast tumor	 Letrozole, 2.5mg/day,oral, 90 days	 responder
+GSM506301	64C	female	breast tumor	 Letrozole, 2.5mg/day,oral, 90 days	 responder
+GSM506302	65C	female	breast tumor	 Letrozole, 2.5mg/day,oral, 90 days	 nonresponder
+GSM506303	67C	female	breast tumor	 Letrozole, 2.5mg/day,oral, 90 days	 not assessable
+GSM506304	68C	female	breast tumor	 Letrozole, 2.5mg/day,oral, 90 days	 nonresponder
+GSM506305	69C	female	breast tumor	 Letrozole, 2.5mg/day,oral, 90 days	 responder
+GSM506306	11C	female	breast tumor	 Letrozole, 2.5mg/day,oral, 90 days	 nonresponder
+GSM506307	13C	female	breast tumor	 Letrozole, 2.5mg/day,oral, 90 days	 responder
+GSM506308	14C	female	breast tumor	 Letrozole, 2.5mg/day,oral, 90 days	 responder
+GSM506309	21C	female	breast tumor	 Letrozole, 2.5mg/day,oral, 90 days	 responder
+GSM506310	23C	female	breast tumor	 Letrozole, 2.5mg/day,oral, 90 days	 responder
+GSM506311	8C	female	breast tumor	 Letrozole, 2.5mg/day,oral, 90 days	 nonresponder
+GSM506312	10C	female	breast tumor	 Letrozole, 2.5mg/day,oral, 90 days	 responder
+GSM506313	17C	female	breast tumor	 Letrozole, 2.5mg/day,oral, 90 days	 responder
+GSM506314	18C	female	breast tumor	 Letrozole, 2.5mg/day,oral, 90 days	 responder
+GSM506315	19C	female	breast tumor	 Letrozole, 2.5mg/day,oral, 90 days	 responder
+GSM506316	7C	female	breast tumor	 Letrozole, 2.5mg/day,oral, 90 days	 responder
+GSM506317	12C	female	breast tumor	 Letrozole, 2.5mg/day,oral, 90 days	 responder
+GSM506318	15C	female	breast tumor	 Letrozole, 2.5mg/day,oral, 90 days	 responder
+GSM506319	16C	female	breast tumor	 Letrozole, 2.5mg/day,oral, 90 days	 not assessable
+GSM506320	20C	female	breast tumor	 Letrozole, 2.5mg/day,oral, 90 days	 responder
+GSM506321	22C	female	breast tumor	 Letrozole, 2.5mg/day,oral, 90 days	 responder
+GSM506322	25C	female	breast tumor	 Letrozole, 2.5mg/day,oral, 90 days	 responder
+GSM506323	24C	female	breast tumor	 Letrozole, 2.5mg/day,oral, 90 days	 not assessable
+GSM506324	27C	female	breast tumor	 Letrozole, 2.5mg/day,oral, 90 days	 nonresponder
+GSM506325	28C	female	breast tumor	 Letrozole, 2.5mg/day,oral, 90 days	 responder
+GSM506326	9C	female	breast tumor	 Letrozole, 2.5mg/day,oral, 90 days	 responder
