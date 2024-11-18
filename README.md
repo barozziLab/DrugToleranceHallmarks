@@ -5,7 +5,7 @@ The datasets contain transcriptional profiles of 300'000 cells from breast and p
 
 The raw data will be available on GEO shortly.
 
-Intermediate objects for the analyses can be found in two zenodo repositories: LINKS
+Intermediate objects for the analyses can be found in two zenodo repositories: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14179561.svg)](https://doi.org/10.5281/zenodo.14179561) and [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14179578.svg)](https://doi.org/10.5281/zenodo.14179578)
 
 ## Study design
 ![image](https://github.com/user-attachments/assets/108267bf-e8e2-4b6c-9df2-cdb11e753e66)
